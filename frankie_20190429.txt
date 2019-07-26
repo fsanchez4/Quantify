@@ -1,0 +1,14 @@
+=============== Company Results ===============
+business name:  frankie
+date:  20190429
+gross profit:  46710.0
+gross profit margin:  54.0
+net profit/loss:  23856.0
+net profit margin:  0.28
+liquidity:  7.79
+total debt:  40000.0
+debt service coverage:  2.98
+debt-to-asset ratio:  0.64
+dead inventory ratio:  0.02
+cash burn rate:  970.47
+score: 4.35/5.00

@@ -1,0 +1,26 @@
+=============== Company Results ===============
+business name:  petsmart
+date:  20190429
+gross profit:  0.0
+gross profit margin:  0.0
+net profit/loss:  -1.0
+net profit margin:  -1.0
+liquidity:  2.0
+total debt:  2.0
+debt service coverage:  -1.0
+debt-to-asset ratio:  1.0
+dead inventory ratio:  1.0
+cash burn rate:  0.0
+business name:  petsmart
+date:  20190429
+gross profit:  0.0
+gross profit margin:  0.0
+net profit/loss:  -1.0
+net profit margin:  -1.0
+liquidity:  2.0
+total debt:  2.0
+debt service coverage:  -1.0
+debt-to-asset ratio:  1.0
+dead inventory ratio:  1.0
+cash burn rate:  0.0
+score: 2.82/5.00

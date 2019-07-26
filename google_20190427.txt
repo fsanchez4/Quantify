@@ -1,0 +1,23 @@
+=============== Company Results ===============
+business name:  google
+date:  2019-04-27
+gross profit:  0.0
+gross profit margin:  0.0
+net profit/loss:  -1.0
+liquidity:  2.0
+total debt:  2.0
+debt service coverage:  -1.0
+debt-to-asset ratio:  1.0
+dead inventory ratio:  1.0
+cash burn rate:  1.0
+business name:  google
+date:  2019-04-27
+gross profit:  0.0
+gross profit margin:  0.0
+net profit/loss:  -1.0
+liquidity:  2.0
+total debt:  2.0
+debt service coverage:  -1.0
+debt-to-asset ratio:  1.0
+dead inventory ratio:  1.0
+cash burn rate:  1.0

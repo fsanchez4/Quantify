@@ -1,0 +1,14 @@
+=============== Company Results ===============
+business name:  gary
+date:  20190504
+gross profit:  15000.0
+gross profit margin:  0.68
+net profit/loss:  9500.0
+net profit margin:  0.43
+liquidity:  2.5
+total debt:  4800.0
+debt service coverage:  3.17
+debt-to-asset ratio:  0.64
+dead inventory ratio:  0.18
+cash burn rate:  0.0
+score: 4.15/5.00

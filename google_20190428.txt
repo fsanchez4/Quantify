@@ -1,0 +1,14 @@
+=============== Company Results ===============
+business name:  google
+date:  20190428
+gross profit:  6000.0
+gross profit margin:  60.0
+net profit/loss:  3000.0
+net profit margin:  0.3
+liquidity:  1.12
+total debt:  40000.0
+debt service coverage:  0.25
+debt-to-asset ratio:  2.96
+dead inventory ratio:  500.0
+cash burn rate:  500.0
+score: 0.615/5.00
